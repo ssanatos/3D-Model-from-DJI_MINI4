@@ -111,6 +111,10 @@ https://github.com/user-attachments/assets/5e112e05-33a2-4044-bb3a-ac7951741ec3
 
 
 
+<img width="1712" height="867" alt="정사사진" src="https://github.com/user-attachments/assets/094056a3-723c-4887-acdc-2c42a6e7e4f5" />
+
+<img width="1406" height="990" alt="정사사진2" src="https://github.com/user-attachments/assets/c24a2049-adcb-4ac9-bbaf-65f7d6fc70a2" />
+
 
 
 

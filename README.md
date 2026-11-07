@@ -93,6 +93,18 @@ https://github.com/user-attachments/assets/dbea5f11-fa77-44b5-b990-a8d30c63e94c
 <img width="1620" height="968" alt="failed kml" src="https://github.com/user-attachments/assets/e5373855-03fe-4415-9dde-e324bae0995d" />
 
 
+https://github.com/user-attachments/assets/a44a2ab9-f2e1-4a00-9d5a-73f892f4b6b0
+
+https://github.com/user-attachments/assets/83130374-4601-4b52-a73d-78669aaaafee
+
+<img width="1534" height="986" alt="texture" src="https://github.com/user-attachments/assets/346d9ec4-d902-44bf-bb4a-b769a2932fcb" />
+
+<img width="1724" height="999" alt="오쏘" src="https://github.com/user-attachments/assets/56a7fb3e-ba58-42c1-918b-5cd2a5905989" />
+
+
+
+
+
 
 
 

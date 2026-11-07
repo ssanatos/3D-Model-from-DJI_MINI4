@@ -30,6 +30,8 @@ DJI MINI 4 Pro 로 4K 동영상으로 찍은 것은 2.4m 나옴
 
 <img width="1919" height="1032" alt="backsuk_Texture4" src="https://github.com/user-attachments/assets/ebba440e-3153-40ab-8f0c-74a4051f9542" />
 
+
+
 4K로 촬영하고 비트전송률을 편집툴 추천으로 낮춰버렸더니 망함.
 
 https://github.com/user-attachments/assets/aaf57f7f-3e41-4614-bcfc-ac82a745c6a3
@@ -41,3 +43,6 @@ https://github.com/user-attachments/assets/1b28f10a-5bbf-4245-a8c7-4a2a723581a3
 <img width="1917" height="1026" alt="1" src="https://github.com/user-attachments/assets/a0ca03f8-cbaf-4b33-8a41-0d770df290a7" />
 
 
+
+
+https://github.com/user-attachments/assets/78ce9f03-c18e-4438-8c5b-df55250230ec

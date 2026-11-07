@@ -65,9 +65,19 @@ https://github.com/user-attachments/assets/e717393f-5e93-41e6-8409-75b0bb3074d5
 
 
 
-
+https://github.com/user-attachments/assets/16e4605b-683d-45fa-b964-9ad1f3ad5249
 
 https://github.com/user-attachments/assets/53d4be06-65f9-47e0-9dea-ba494bc4ba17
+
+<img width="1919" height="1029" alt="align images" src="https://github.com/user-attachments/assets/9e4f2610-888d-460d-8a69-8f5322f2cc4a" />
+
+<img width="1919" height="1029" alt="texture" src="https://github.com/user-attachments/assets/f71aedf5-10d9-4346-93dc-3bc08dc427ac" />
+
+<img width="1916" height="1029" alt="다리길이가 2m로 나옴" src="https://github.com/user-attachments/assets/71657015-059e-4de4-b3b8-d25071d9d918" />
+
+<img width="1062" height="768" alt="두빛나래교" src="https://github.com/user-attachments/assets/944f2172-ca20-45c6-acb4-565b4f2b59ea" />
+
+
 
 
 

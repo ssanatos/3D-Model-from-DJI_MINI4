@@ -56,5 +56,14 @@ https://github.com/user-attachments/assets/78ce9f03-c18e-4438-8c5b-df55250230ec
 
 
 
+https://github.com/user-attachments/assets/e717393f-5e93-41e6-8409-75b0bb3074d5
+
+<img width="1914" height="1022" alt="align images" src="https://github.com/user-attachments/assets/1bf6f33a-f465-44d4-87de-84416cbfcc63" />
+
+<img width="1919" height="1026" alt="texture" src="https://github.com/user-attachments/assets/0ceacb46-3854-4b77-9908-68cf35769505" />
+
+
+
+
 
 

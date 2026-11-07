@@ -80,6 +80,17 @@ https://github.com/user-attachments/assets/53d4be06-65f9-47e0-9dea-ba494bc4ba17
 <img width="1062" height="768" alt="두빛나래교" src="https://github.com/user-attachments/assets/944f2172-ca20-45c6-acb4-565b4f2b59ea" />
 
 
+4K, 60fps 로 촬영하고 10배속, 30fps로 압축 하여 0.2초마다 프레임 추출
+
+<img width="1697" height="977" alt="texture" src="https://github.com/user-attachments/assets/c67a2a5a-f501-48e6-8a9b-d61873da7e13" />
+
+<img width="1480" height="988" alt="자전거도로폭" src="https://github.com/user-attachments/assets/00752bca-4d7d-4855-a6a9-80ef681d86d6" />
+
+<img width="1620" height="968" alt="failed kml" src="https://github.com/user-attachments/assets/e5373855-03fe-4415-9dde-e324bae0995d" />
+
+
+
+
 
 
 

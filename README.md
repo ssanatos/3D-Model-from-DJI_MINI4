@@ -82,9 +82,9 @@ https://github.com/user-attachments/assets/53d4be06-65f9-47e0-9dea-ba494bc4ba17
 
 4K, 60fps 로 촬영하고 10배속, 30fps로 압축 하여 0.2초마다 프레임 추출
 
-https://github.com/user-attachments/assets/dbea5f11-fa77-44b5-b990-a8d30c63e94c
-
 https://github.com/user-attachments/assets/5d079526-74dc-4131-9eb2-f6bdaee151c1
+
+https://github.com/user-attachments/assets/dbea5f11-fa77-44b5-b990-a8d30c63e94c
 
 <img width="1697" height="977" alt="texture" src="https://github.com/user-attachments/assets/c67a2a5a-f501-48e6-8a9b-d61873da7e13" />
 
